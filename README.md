@@ -1,4 +1,3 @@
-# nodejs-music-artist-management-system
 # Müzik ve Sanatçı Yönetim Sistemi
 
 ## Proje Açıklaması
